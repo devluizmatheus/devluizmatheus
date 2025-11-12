@@ -6,7 +6,7 @@
 <!-- Texto animado -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hello+Dev's,+Welcome+to+My+Profile!;My+name+is+Luiz+Matheus;I'm+18+years+old;From+Paraíba,+Brazil;Studying+Computer+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hello+Dev's,+Welcome+to+My+Profile!;My+name+is+Luiz+Matheus;I'm+20+years+old;From+Paraíba,+Brazil;Studying+Computer+Science" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,6 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devluizmatheus&show_icons=true&theme=transparent&text_color=FFFFFF" height="165" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluizmatheus&layout=compact&theme=transparent&text_color=FFFFFF&hide=jupyter%20notebook" height="165" />
 </p>
 
