@@ -12,9 +12,9 @@
 
 ### 🧠 About Me
 
-> I am a proactive person who always gives my best in every project.  
-> I’m passionate about learning new technologies, improving my **Soft Skills**,  
-> and growing as a **developer and collaborator**.
+> *I am a proactive person who always gives my best in every project.*  
+> *I’m passionate about learning new technologies, improving my **Soft Skills**,*  
+> *and growing as a **developer and collaborator**.*
 
 ---
 
@@ -28,8 +28,8 @@
     />
   </a>
 </p>
-
 ㅤ
+
 ---
 
 ### 📊 GitHub Stats
@@ -42,8 +42,8 @@
 <img src="https://github-readme-stats-blue-kappa-88.vercel.app/api/top-langs?username=devluizmatheus&layout=compact&title_color=ffffff&text_color=ffffff&border_color=ffffff&bg_color=000000" height="150"/>
 
 </div>
-
 ㅤ
+
 ---
 
 ### 📫 How to Reach Me
@@ -65,3 +65,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devluizmatheus&color=blue&style=flat-square" alt="Profile views"/>
 </p>
+ㅤ
