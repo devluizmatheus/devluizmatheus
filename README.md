@@ -39,7 +39,7 @@
 <img src="https://github-readme-stats-blue-kappa-88.vercel.app/api?username=devluizmatheus&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&bg_color=000000" height="180"/>
 ㅤ
 ㅤ
-<img src="https://github-readme-stats-blue-kappa-88.vercel.app/api/top-langs?username=devluizmatheus&layout=compact&title_color=ffffff&text_color=ffffff&border_color=ffffff&bg_color=000000" height="200"/>
+<img src="https://github-readme-stats-blue-kappa-88.vercel.app/api/top-langs?username=devluizmatheus&layout=compact&title_color=ffffff&text_color=ffffff&border_color=ffffff&bg_color=000000" height="150"/>
 
 </div>
 
