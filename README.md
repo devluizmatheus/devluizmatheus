@@ -18,24 +18,32 @@
 
 ---
 
-### 🔭 Currently Working and Studying
-
+### 🛠️ Currently Working and Studying
+ㅤ
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,mysql,git,docker&perline=5" alt="My Skills" />
+    <img 
+      src="https://skillicons.dev/icons?i=python,fastapi,django,mysql,git,docker&perline=6" 
+      alt="My Skills"
+    />
   </a>
 </p>
 
+ㅤ
 ---
 
 ### 📊 GitHub Stats
+ㅤ
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devluizmatheus&show_icons=true&theme=transparent&text_color=FFFFFF" height="165" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluizmatheus&layout=compact&theme=transparent&text_color=FFFFFF&hide=jupyter%20notebook" height="165" />
-</p>
+<img src="https://github-readme-stats-blue-kappa-88.vercel.app/api?username=devluizmatheus&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&bg_color=000000" height="180"/>
+ㅤ
+ㅤ
+<img src="https://github-readme-stats-blue-kappa-88.vercel.app/api/top-langs?username=devluizmatheus&layout=compact&title_color=ffffff&text_color=ffffff&border_color=ffffff&bg_color=000000" height="200"/>
 
+</div>
+
+ㅤ
 ---
 
 ### 📫 How to Reach Me
@@ -44,15 +52,16 @@
   <a href="mailto:devluizmatheus@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  ㅤ
   <a href="https://wa.me/5583993853791" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/luiz-matheus-oliveira-leite-51304a2b6/" target="_blank">
+  ㅤ
+  <a href="https://www.linkedin.com/in/luiz-matheus-oliveira-leite-51304a26b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
+ㅤ
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devluizmatheus&color=blue&style=flat-square" alt="Profile views"/>
 </p>
-
